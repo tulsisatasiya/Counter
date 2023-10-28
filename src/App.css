@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+img{
+  height: 400px;
+  width: auto;
+}
+
+section,h1{
+  text-align: center;
+}
+
+.main{
+  /* height: 500px; */
+  width: 750px;
+  margin: 0 auto;
+  border : 5px solid black;
+}
